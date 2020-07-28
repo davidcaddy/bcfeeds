@@ -1,5 +1,5 @@
 {
-    "resultCount": 3,
+    "resultCount": 4,
     "results": [
         {
             "artistName": "David Caddy (Creator of BarCasts)",
@@ -17,7 +17,20 @@
             ]
         },
         {
-            "artistName": "Alexander Carr and David Caddy",
+            "artistName": "David Sparks & Stephen Hackett",
+            "collectionName": "Mac Power Users",
+            "subtitle": "Learn about getting the most from your Apple technology with focused topics and workflow guests. Creating Mac Power Users, one geek at a time since 2009.",
+            "collectionViewUrl": "https://www.relay.fm/mpu",
+            "feedUrl": "https://www.relay.fm/mpu/feed",
+            "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/ee/33/40/ee3340bc-00f5-df58-0f85-91fa7bba8f21/mza_8920878357512478781.png/100x100bb.jpg",
+            "collectionExplicitness": "cleaned",
+            "genres": [
+                "Technology",
+                "Podcasts"
+            ]
+        },
+        {
+            "artistName": "Alexander Carr & David Caddy",
             "collectionName": "Tangential Soup",
             "subtitle": "Childhood friends Alex Carr and David Caddy talk about life in Australia, work, technology, finance, food, fitness and the like.",
             "collectionViewUrl": "https://tangentialsoup.com",
@@ -32,7 +45,7 @@
             ]
         },
         {
-            "artistName": "Myke Hurley and Stephen Hackett",
+            "artistName": "Myke Hurley & Stephen Hackett",
             "collectionName": "Ungeniused",
             "subtitle": "Ungeniused is a show dedicated to covering the weirdest articles found on Wikipedia. Stephen Hackett and Myke Hurley are here to explain topics and share knowledge you'll never be able to use in real life.",
             "collectionViewUrl": "https://www.relay.fm/ungeniused",
