@@ -1,5 +1,5 @@
 {
-    "resultCount": 5,
+    "resultCount": 6,
     "results": [
         {
             "artistName": "David Caddy (Creator of BarCasts)",
@@ -14,6 +14,19 @@
                 "Podcasts",
                 "News",
                 "Tech News"
+            ]
+        },
+        {
+            "artistName": "BBC World Service",
+            "collectionName": "Global News Podcast",
+            "subtitle": "The day’s top stories from BBC News. Delivered twice a day on weekdays, daily at weekends.",
+            "collectionViewUrl": "https://www.bbc.co.uk/programmes/p02nq0gn",
+            "feedUrl": "https://podcasts.files.bbci.co.uk/p02nq0gn.rss",
+            "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/fd/4d/ae/fd4daedf-a735-cd14-7a24-eebe4b195930/mza_1782238947154757153.jpg/100x100bb.jpg",
+            "collectionExplicitness": "cleaned",
+            "genres": [
+                "News",
+                "Podcasts"
             ]
         },
         {
