@@ -1,0 +1,35 @@
+{
+    "resultCount": 4,
+    "results": [
+        {
+            "artistName": "David Caddy (Creator of BarCasts)",
+            "collectionName": "Fleeting Pixels",
+            "subtitle": "Independant app developer David Caddy talks about work and technology.",
+            "collectionViewUrl": "https://fleetingpixels.com",
+            "feedUrl": "https://fleetingpixels.com/podcast?format=rss",
+            "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/fe/47/ba/fe47badd-21d4-0f2e-5eee-ccb8bf7d3867/mza_1295693154062424556.png/100x100bb.jpg",
+            "collectionExplicitness": "cleaned",
+            "genres": [
+                "Technology",
+                "Podcasts",
+                "News",
+                "Tech News"
+            ]
+        },
+        {
+            "artistName": "Alexander Carr, David Caddy",
+            "collectionName": "Tangential Soup",
+            "subtitle": "Childhood friends Alex Carr and David Caddy talk about life in Australia, work, technology, finance, food, fitness and the like.",
+            "collectionViewUrl": "https://tangentialsoup.com",
+            "feedUrl": "https://tangentialsoup.com/episodes?format=rss",
+            "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f1/44/90/f1449081-b14c-4fd1-2d49-e65b5bdd1dbe/mza_2720493795941195181.png/100x100bb.jpg",
+            "collectionExplicitness": "cleaned",
+            "genres": [
+                "Technology",
+                "Podcasts",
+                "News",
+                "Tech News"
+            ]
+        }
+    ]
+}
