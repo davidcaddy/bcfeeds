@@ -1,5 +1,5 @@
 {
-    "resultCount": 4,
+    "resultCount": 3,
     "results": [
         {
             "artistName": "David Caddy (Creator of BarCasts)",
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "artistName": "Alexander Carr, David Caddy",
+            "artistName": "Alexander Carr and David Caddy",
             "collectionName": "Tangential Soup",
             "subtitle": "Childhood friends Alex Carr and David Caddy talk about life in Australia, work, technology, finance, food, fitness and the like.",
             "collectionViewUrl": "https://tangentialsoup.com",
@@ -30,6 +30,20 @@
                 "News",
                 "Tech News"
             ]
-        }
+        },
+        {
+            "artistName": "Myke Hurley and Stephen Hackett",
+            "collectionName": "Ungeniused",
+            "subtitle": "Ungeniused is a show dedicated to covering the weirdest articles found on Wikipedia. Stephen Hackett and Myke Hurley are here to explain topics and share knowledge you'll never be able to use in real life.",
+            "collectionViewUrl": "https://www.relay.fm/ungeniused",
+            "feedUrl": "https://www.relay.fm/ungeniused/feed",
+            "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/60/a6/03/60a603b1-9ce9-0750-3b57-98a576aedd0c/mza_8289049066167020511.png/100x100bb.jpg",
+            "collectionExplicitness": "cleaned",
+            "genres": [
+                "Comedy",
+                "Podcasts",
+                "Education"
+            ]
+        },
     ]
 }
