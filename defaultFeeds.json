@@ -1,5 +1,5 @@
 {
-    "resultCount": 4,
+    "resultCount": 5,
     "results": [
         {
             "artistName": "David Caddy (Creator of BarCasts)",
@@ -14,6 +14,20 @@
                 "Podcasts",
                 "News",
                 "Tech News"
+            ]
+        },
+        {
+            "artistName": "Jason Snell & Stephen Hackett",
+            "collectionName": "Liftoff",
+            "subtitle": "Liftoff is a fortnightly podcast about space, the universe, and everything. You don’t need to be a rocket scientist to understand the latest developments as explained by enthusiastic space fans Stephen Hackett and Jason Snell.",
+            "collectionViewUrl": "https://www.relay.fm/liftoff",
+            "feedUrl": "https://www.relay.fm/liftoff/feed",
+            "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/16/dc/58/16dc5834-f193-a7b1-dec5-e1e993c794b4/mza_3760240488707215044.png/100x100bb.jpg",
+            "collectionExplicitness": "cleaned",
+            "genres": [
+                "Education",
+                "Podcasts",
+                "Science"
             ]
         },
         {
